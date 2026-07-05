@@ -12,7 +12,7 @@ double calculateAverage(double total, int count) {
         return 0.0;
     }
 
-    return total / count;
+    return ( total / count );
 }
 
 char determineLetterGrade(double average) {
